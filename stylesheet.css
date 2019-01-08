@@ -1,0 +1,92 @@
+a {
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    color: #000;
+    opacity: 0.75;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.flex-left {
+    margin-right: auto;
+    padding: 15px;
+}
+
+.flex-right {
+    margin-left: auto;
+    padding: 15px;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 40px;
+    margin-bottom: -15px;
+    opacity: 1.0 !important;
+}
+
+.nav-fix {
+    height: 70px;
+    vertical-align: middle;
+}
+
+div a {
+    padding: 15px 15px;
+    text-align: center;
+}
+
+.content {
+    margin: auto;
+    text-align: center;
+}
+
+.search {
+    font: 16px arial,sans-serif;
+    line-height: 34px;
+    width: 520px;
+    margin: 15px;
+    border: none;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08);
+}
+.search:hover {
+    box-shadow: 0 3px 8px 0 rgba(0,0,0,0.2), 0 0 0 1px rgba(0,0,0,0.08);
+}
+
+.submit {
+    height: 36px;
+    background-color:#f1f1f1;
+    color: #757575;
+    font-weight: bold;
+    border:1px solid #f2f2f2;
+    padding: 8px 16px;
+    margin: 11px 4px;
+    border-radius: 5px;
+}
+.submit:hover {
+    color: black;
+    border: 1px solid black;
+}
+
+.daily-link {
+    color: blue;
+}
+.daily-link:hover {
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}

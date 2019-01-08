@@ -1,0 +1,1 @@
+This project is to remake the current google homepage. It is a project from The Odin Project syllabus.
