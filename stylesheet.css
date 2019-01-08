@@ -90,3 +90,10 @@ div a {
     bottom: 0px;
     width: 100%;
 }
+
+.mic {
+    position: relative;
+    top: 8px;
+    right: 45px;
+    height: 27px;
+}
