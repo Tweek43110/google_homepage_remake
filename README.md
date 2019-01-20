@@ -1,1 +1,1 @@
-This project is to remake the current google homepage. It is a project from The Odin Project syllabus.
+This project, inspired by The Odin Project, is to mimic the styling and layout of the current google search page. It shoucases some simple use of CSS flexbox in the nav and footer and good use of some free icons from font awesome. 
